@@ -1,5 +1,5 @@
 # swipeScreensReactNative
-A sample swiping application for learining React Native.
+A sample swiping application for learning React Native.
 
 <p align="center">
 <img src="https://github.com/peterdestasio/swipeScreensReactNative/blob/master/swiping.gif">
